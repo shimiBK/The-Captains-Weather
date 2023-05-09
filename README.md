@@ -14,7 +14,10 @@ Fully responsive Weather app with search functionality, favorites page built wit
 <br/>
 <br/>
 <br/>
+</div>
+
 ## Installation and Setup Instructions
+
 
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
