@@ -13,7 +13,10 @@ Fully responsive Weather app with search functionality, favorites page built wit
 <br/>
 <br/>
 <br/>
-<br/>
+ App Diagram : 
+ <br/>
+ <br/>
+ ![](./readme/Diagram.png)
 </div>
 
 ## Installation and Setup Instructions
